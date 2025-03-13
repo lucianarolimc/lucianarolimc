@@ -29,7 +29,7 @@ Durante minha trajetória, desenvolvi habilidades em áreas como:
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luciana-rolim-78162318b/)](https://www.linkedin.com/in/luciana-rolim-78162318b/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luciana-rolim-78162318b/)](https://www.linkedin.com/in/luciana-rolim-78162318b/)
 
 <!---
 lucianarolimc/lucianarolimc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
