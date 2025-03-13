@@ -1,11 +1,11 @@
 # 👋 Olá, eu sou a Luciana Rolim!
 
 ## 👩‍💻 **Engenheira da Computação** | **Mestra em Engenharia Elétrica**   
----
 
 ## 🚀 **Sobre Mim**
 
-Sou formada em **Engenharia da Computação** e tenho mestrado em **Engenharia Elétrica**. Durante minha trajetória, desenvolvi habilidades em áreas como:
+Sou formada em **Engenharia da Computação** e tenho mestrado em **Engenharia Elétrica**. 
+Durante minha trajetória, desenvolvi habilidades em áreas como:
 
 - **Aprendizado de Máquina**: Desenvolvimento de modelos preditivos para classificação.
 - **Processamento Digital de Sinais (PDS)**: Análise e processamento de sinais de áudio e imagem para aplicações em engenharia.
