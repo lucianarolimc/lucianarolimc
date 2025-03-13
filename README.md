@@ -1,7 +1,6 @@
 # 👋 Olá, eu sou a Luciana Rolim!
 
-👩‍💻 **Engenheira da Computação** | **Mestra em Engenharia Elétrica**  
-💡 Apaixonada por **Aprendizado de Máquina**, **Processamento Digital de Sinais (PDS)** e **Visão Computacional**.  
+## 👩‍💻 **Engenheira da Computação** | **Mestra em Engenharia Elétrica**   
 ---
 
 ## 🚀 **Sobre Mim**
